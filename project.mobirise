@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -143,23 +143,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "color": "#27aae0"
-            }
-          },
-          "_anchor": "header3-d",
-          "title": "Popular videos",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "features1",
           "_styles": {
             ".mbr-section-title .mbr-header__text": {
@@ -168,7 +151,7 @@
           },
           "_anchor": "features1-8",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -182,7 +165,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "columns": "5",
             "showImages": true,
