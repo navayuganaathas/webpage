@@ -182,13 +182,13 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showHeader": true,
+            "showHeader": false,
             "showSubheader": false,
             "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true
+            "showButtons": false
           },
           "headerAlign": "left",
           "header": "Popular videos",
