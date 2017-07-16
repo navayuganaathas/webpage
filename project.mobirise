@@ -126,7 +126,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/4RNszCi6p6I",
+              "src": "https://youtu.be/iPWbLlzlYR8",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": "on",
@@ -155,93 +155,6 @@
             "showMeta": false
           },
           "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-c",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/I1bltQXAknQ",
-              "class": "mbr-figure__img",
-              "aspectratio": "4:3",
-              "autoplay": "on",
-              "loop": "on"
-            }
-          },
-          "headerAlign": "left",
-          "title": "VIDEO EMBED",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {},
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-e",
-          "_params": {
-            "bgColor": "#252525",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/dDQjj1n51nw",
-              "autoplay": "on",
-              "loop": "on"
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
           "_tags": [
@@ -289,8 +202,8 @@
             "video": {
               "class": "mbr-figure__img",
               "src": "https://youtu.be/7J3wL1aM3po",
-              "autoplay": "on",
-              "loop": "on",
+              "autoplay": false,
+              "loop": false,
               "active": true
             },
             "iconFont": {
@@ -311,8 +224,8 @@
             "video": {
               "class": "mbr-figure__img",
               "src": "https://youtu.be/bDud0B4Nl8U",
-              "autoplay": "on",
-              "loop": "on",
+              "autoplay": false,
+              "loop": false,
               "active": true
             },
             "iconFont": {
@@ -333,8 +246,8 @@
             "video": {
               "class": "mbr-figure__img",
               "src": "https://youtu.be/SpPz31KT2pA",
-              "autoplay": "on",
-              "loop": "on",
+              "autoplay": false,
+              "loop": false,
               "active": true
             },
             "iconFont": {
@@ -355,8 +268,8 @@
             "video": {
               "class": "mbr-figure__img",
               "src": "https://youtu.be/01QZ7BEXnmo",
-              "autoplay": "on",
-              "loop": "on",
+              "autoplay": false,
+              "loop": false,
               "active": true
             },
             "iconFont": {
@@ -377,7 +290,7 @@
             "video": {
               "class": "mbr-figure__img",
               "src": "https://youtu.be/Rhe6XhAu5d8",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": false,
               "active": true
             },
