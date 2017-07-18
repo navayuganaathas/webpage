@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -138,6 +138,172 @@
           "meta": "let's start thinking differently",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://www.youtube.com/channel/UCTA3Ziowew25_YKU4DnerfA?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">subscribe</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "New on our channel",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/honRDHx38c0",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "4GB Daily Data for 90 day @ Rs 444 by  BSNL chaukka offer",
+          "caption1": "BSNL Brings Down per GB Data Cost to Less Than a Rupee, Offers 4GB Daily Data for Rs 444",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/a4jTyndkCcY",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "30GB 3G Data for 30 Days @ rs. 333",
+          "caption2": "Aircel Announces Rs. 333 Plan for Karnataka Users Offering 30GB 3G Data for 30 Days",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/FSmj2Iemtp0",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "july 18 - aadi 2",
+          "caption3": "July 18, 2017<br>AADI/ஆடி 2<br>TUESDAY / செவ்வாய்<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/PUZqL9QHNMU",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "How is the president of India elected",
+          "caption4": "let us know how is the president of India elected.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#27aae0"
+            }
+          }
         },
         {
           "_tags": [
