@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-07-13_1245",
+    "name": "navayuganaathas",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -9,7 +9,10 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 17,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-102767213-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -144,6 +147,11 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "features1-g",
           "_params": {
             "paddingTop": "2",
@@ -298,12 +306,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#27aae0"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_tags": [
