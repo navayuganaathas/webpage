@@ -9,7 +9,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 17,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.2.3",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-102767213-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
@@ -50,14 +50,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "color": "#efefef",
-            "hamburgerColor": "#27aae0",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#efefef",
+            "hamburgerColor": "#27aae0"
           },
           "logo": {
             "image": {
@@ -98,28 +98,28 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-4",
           "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": "60",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/4RNszCi6p6I?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": true,
-            "showText": false,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -129,7 +129,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/4JjOVOHaeCM",
+              "src": "https://youtu.be/RHycRdq4_9c",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": "on",
@@ -154,27 +154,27 @@
           },
           "_anchor": "features1-g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "New on our channel",
@@ -320,27 +320,27 @@
           },
           "_anchor": "features1-8",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "Popular videos",
@@ -483,17 +483,17 @@
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-9",
           "_params": {
+            "inverse": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
+            "overlayOpacity": 0.5,
             "counters": false,
             "facebook": true,
             "google": false,
@@ -534,14 +534,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
-            "color": "#efefef",
-            "hamburgerColor": "#27aae0",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#efefef",
+            "hamburgerColor": "#27aae0"
           },
           "logo": {
             "image": {
